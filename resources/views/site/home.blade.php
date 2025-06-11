@@ -87,9 +87,13 @@
 </ul>
 
 <div id="Etec">
-    <h1>Etec</h1>
+    <h1>Etec da Zona Leste</h1>
     <hr>
-    <h2>As 228 Etecs administradas pelo Centro Paula Souza contam com mais de 224 mil matriculados nos Ensinos Técnico, Integrado, Médio e Especialização Técnica.<br><br>
-    Ao todo, são ofertados 262 cursos: 118 cursos técnicos (104 presenciais, 5 semipresenciais, 6 cursos online e 3 na modalidade aberta), 109 cursos de Ensino Médio integrado ao Técnico – 35 em tempo integral e 65 em um único período e 9 cursos na Articulação da Formação Profissional Média e Superior (AMS) – e 35 especializações técnicas.<br><br>
-    O candidato também pode escolher entre as quatro opções de itinerários formativos de Ensino Médio ofertados nas Etecs.</h2>
+    <h2>Localizada na Avenida Águia de Haia, na Zona Leste de São Paulo, a Etec Zona Leste é um importante polo educacional da região.<br><br>
+
+Desde sua fundação, a escola tem como missão oferecer ensino técnico e tecnológico de qualidade, preparando os alunos para os desafios do mercado de trabalho e incentivando a busca pela excelência acadêmica.<br><br>
+
+Com o passar dos anos, a instituição ampliou sua oferta de cursos e modernizou suas instalações, adaptando-se às demandas da sociedade. Oferece formações técnicas em áreas como informática, administração e eletrônica, com o apoio de uma equipe qualificada de professores e funcionários.<br><br>
+
+Além do ensino regular, a Etec Zona Leste promove atividades extracurriculares, como projetos de pesquisa, competições, eventos culturais e esportivos, contribuindo para a formação integral dos estudantes.</h2>
 </div>
